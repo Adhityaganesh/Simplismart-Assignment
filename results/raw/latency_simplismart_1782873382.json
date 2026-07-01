@@ -1,0 +1,92 @@
+[
+  {
+    "run": 0,
+    "platform": "simplismart",
+    "ttft_s": 0.29453108401503414,
+    "tpot_s": 0.006048230848550288,
+    "total_latency_s": 1.4920807920279913,
+    "output_tokens": 199,
+    "error": null
+  },
+  {
+    "run": 1,
+    "platform": "simplismart",
+    "ttft_s": 0.2829402089701034,
+    "tpot_s": 0.006170182577778946,
+    "total_latency_s": 1.5108065419481136,
+    "output_tokens": 200,
+    "error": null
+  },
+  {
+    "run": 2,
+    "platform": "simplismart",
+    "ttft_s": 0.3017019580001943,
+    "tpot_s": 0.0060198423367850105,
+    "total_latency_s": 1.4996505830204114,
+    "output_tokens": 200,
+    "error": null
+  },
+  {
+    "run": 3,
+    "platform": "simplismart",
+    "ttft_s": 0.7009436250082217,
+    "tpot_s": 0.006058214195762953,
+    "total_latency_s": 1.9065282499650493,
+    "output_tokens": 200,
+    "error": null
+  },
+  {
+    "run": 4,
+    "platform": "simplismart",
+    "ttft_s": 0.2826589999604039,
+    "tpot_s": 0.006036843170865846,
+    "total_latency_s": 1.4839907909627073,
+    "output_tokens": 200,
+    "error": null
+  },
+  {
+    "run": 5,
+    "platform": "simplismart",
+    "ttft_s": 0.2771743340417743,
+    "tpot_s": 0.006029802763567835,
+    "total_latency_s": 1.4771050839917734,
+    "output_tokens": 200,
+    "error": null
+  },
+  {
+    "run": 6,
+    "platform": "simplismart",
+    "ttft_s": 0.2651328340289183,
+    "tpot_s": 0.006037171688469024,
+    "total_latency_s": 1.466530000034254,
+    "output_tokens": 200,
+    "error": null
+  },
+  {
+    "run": 7,
+    "platform": "simplismart",
+    "ttft_s": 0.27706541697261855,
+    "tpot_s": 0.006011349324300583,
+    "total_latency_s": 1.3891650419682264,
+    "output_tokens": 186,
+    "error": null
+  },
+  {
+    "run": 8,
+    "platform": "simplismart",
+    "ttft_s": 0.31483658304205164,
+    "tpot_s": 0.006014572601105469,
+    "total_latency_s": 1.2952119170222431,
+    "output_tokens": 164,
+    "error": null
+  },
+  {
+    "run": 9,
+    "platform": "simplismart",
+    "ttft_s": 0.2844439590116963,
+    "tpot_s": 0.006046775542726113,
+    "total_latency_s": 1.4877522920141928,
+    "output_tokens": 200,
+    "error": null
+  }
+]

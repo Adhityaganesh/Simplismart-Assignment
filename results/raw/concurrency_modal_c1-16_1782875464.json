@@ -1,0 +1,306 @@
+{
+  "1": {
+    "wall_s": 12.706620166020002,
+    "requests": [
+      {
+        "worker": 0,
+        "platform": "modal",
+        "ttft_s": 1.3710751250036992,
+        "tpot_s": 0.056949711266387926,
+        "total_latency_s": 12.704067667014897,
+        "output_tokens": 200,
+        "error": null
+      }
+    ]
+  },
+  "2": {
+    "wall_s": 12.831253791984636,
+    "requests": [
+      {
+        "worker": 0,
+        "platform": "modal",
+        "ttft_s": 1.2565865829819813,
+        "tpot_s": 0.05815290870880895,
+        "total_latency_s": 12.829015416034963,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 1,
+        "platform": "modal",
+        "ttft_s": 1.1013163750176318,
+        "tpot_s": 0.058266559673353896,
+        "total_latency_s": 12.696361750015058,
+        "output_tokens": 200,
+        "error": null
+      }
+    ]
+  },
+  "4": {
+    "wall_s": 13.03828854096355,
+    "requests": [
+      {
+        "worker": 0,
+        "platform": "modal",
+        "ttft_s": 1.209234291978646,
+        "tpot_s": 0.05873107119087813,
+        "total_latency_s": 12.896717458963394,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 1,
+        "platform": "modal",
+        "ttft_s": 1.3642009999603033,
+        "tpot_s": 0.058649627512599334,
+        "total_latency_s": 13.035476874967571,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 2,
+        "platform": "modal",
+        "ttft_s": 1.1060802919673733,
+        "tpot_s": 0.058856503557982436,
+        "total_latency_s": 12.818524500005879,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 3,
+        "platform": "modal",
+        "ttft_s": 1.22395312495064,
+        "tpot_s": 0.058726869582061754,
+        "total_latency_s": 11.61860904097557,
+        "output_tokens": 178,
+        "error": null
+      }
+    ]
+  },
+  "8": {
+    "wall_s": 22.572357499971986,
+    "requests": [
+      {
+        "worker": 0,
+        "platform": "modal",
+        "ttft_s": 10.851164082996547,
+        "tpot_s": 0.05882890227841232,
+        "total_latency_s": 22.26397112500854,
+        "output_tokens": 195,
+        "error": null
+      },
+      {
+        "worker": 1,
+        "platform": "modal",
+        "ttft_s": 10.863807792018633,
+        "tpot_s": 0.05882617525128067,
+        "total_latency_s": 22.570216667023487,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 2,
+        "platform": "modal",
+        "ttft_s": 10.850069917039946,
+        "tpot_s": 0.058828934184454666,
+        "total_latency_s": 22.321712083008606,
+        "output_tokens": 196,
+        "error": null
+      },
+      {
+        "worker": 3,
+        "platform": "modal",
+        "ttft_s": 10.83789083402371,
+        "tpot_s": 0.05880831721533368,
+        "total_latency_s": 21.482196249999106,
+        "output_tokens": 182,
+        "error": null
+      },
+      {
+        "worker": 4,
+        "platform": "modal",
+        "ttft_s": 10.842627374979202,
+        "tpot_s": 0.058800292722269366,
+        "total_latency_s": 22.485085333988536,
+        "output_tokens": 199,
+        "error": null
+      },
+      {
+        "worker": 5,
+        "platform": "modal",
+        "ttft_s": 10.861813207971863,
+        "tpot_s": 0.05876675518133093,
+        "total_latency_s": 22.203796957968734,
+        "output_tokens": 194,
+        "error": null
+      },
+      {
+        "worker": 6,
+        "platform": "modal",
+        "ttft_s": 1.1505388749646954,
+        "tpot_s": 0.1060244742463268,
+        "total_latency_s": 22.249409249983728,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 7,
+        "platform": "modal",
+        "ttft_s": 10.846855457988568,
+        "tpot_s": 0.05877866939203954,
+        "total_latency_s": 22.543810667004436,
+        "output_tokens": 200,
+        "error": null
+      }
+    ]
+  },
+  "16": {
+    "wall_s": 26.12926941702608,
+    "requests": [
+      {
+        "worker": 0,
+        "platform": "modal",
+        "ttft_s": 1.4669035419938155,
+        "tpot_s": 0.05913640808047324,
+        "total_latency_s": 13.23504875000799,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 1,
+        "platform": "modal",
+        "ttft_s": 1.4534550420357846,
+        "tpot_s": 0.05929624434676368,
+        "total_latency_s": 13.253407667041756,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 2,
+        "platform": "modal",
+        "ttft_s": 1.4342113330494612,
+        "tpot_s": 0.05935006742201858,
+        "total_latency_s": 13.244874750031158,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 3,
+        "platform": "modal",
+        "ttft_s": 1.4465071249869652,
+        "tpot_s": 0.05932606993466569,
+        "total_latency_s": 13.252395041985437,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 4,
+        "platform": "modal",
+        "ttft_s": 1.2428997500101104,
+        "tpot_s": 0.05937085741190193,
+        "total_latency_s": 13.057700374978594,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 5,
+        "platform": "modal",
+        "ttft_s": 1.3645079580019228,
+        "tpot_s": 0.05947993446729993,
+        "total_latency_s": 13.201014916994609,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 6,
+        "platform": "modal",
+        "ttft_s": 1.4258736250340007,
+        "tpot_s": 0.05938368530133178,
+        "total_latency_s": 13.243226999999024,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 7,
+        "platform": "modal",
+        "ttft_s": 1.3714015840087086,
+        "tpot_s": 0.05947097591955177,
+        "total_latency_s": 13.206125791999511,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 8,
+        "platform": "modal",
+        "ttft_s": 1.3550434579956345,
+        "tpot_s": 0.05945872026641886,
+        "total_latency_s": 13.187328791012987,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 9,
+        "platform": "modal",
+        "ttft_s": 1.3344629170023836,
+        "tpot_s": 0.05944252595973515,
+        "total_latency_s": 13.163525582989678,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 10,
+        "platform": "modal",
+        "ttft_s": 1.3592122919508256,
+        "tpot_s": 0.059390140492609475,
+        "total_latency_s": 13.17785024998011,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 11,
+        "platform": "modal",
+        "ttft_s": 1.4212745419936255,
+        "tpot_s": 0.05932101388519141,
+        "total_latency_s": 12.277020082983654,
+        "output_tokens": 184,
+        "error": null
+      },
+      {
+        "worker": 12,
+        "platform": "modal",
+        "ttft_s": 1.1092743329936638,
+        "tpot_s": 0.05871277093979759,
+        "total_latency_s": 12.793115750013385,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 13,
+        "platform": "modal",
+        "ttft_s": 1.1951492499792948,
+        "tpot_s": 0.0588163615978936,
+        "total_latency_s": 12.899605207960121,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 14,
+        "platform": "modal",
+        "ttft_s": 1.1939591250265948,
+        "tpot_s": 0.05922713606765673,
+        "total_latency_s": 11.677162209001835,
+        "output_tokens": 178,
+        "error": null
+      },
+      {
+        "worker": 15,
+        "platform": "modal",
+        "ttft_s": 1.2506958339945413,
+        "tpot_s": 0.05875172361821619,
+        "total_latency_s": 12.942288834019564,
+        "output_tokens": 200,
+        "error": null
+      }
+    ]
+  }
+}

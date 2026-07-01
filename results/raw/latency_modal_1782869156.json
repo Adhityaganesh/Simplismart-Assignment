@@ -1,0 +1,47 @@
+[
+  {
+    "run": 0,
+    "platform": "modal",
+    "ttft_s": 97.26738966599805,
+    "tpot_s": 0.056590603643164844,
+    "total_latency_s": 108.52891979098786,
+    "output_tokens": 200,
+    "error": null
+  },
+  {
+    "run": 1,
+    "platform": "modal",
+    "ttft_s": 1.1348150830017403,
+    "tpot_s": 0.05696812395477929,
+    "total_latency_s": 12.47147175000282,
+    "output_tokens": 200,
+    "error": null
+  },
+  {
+    "run": 2,
+    "platform": "modal",
+    "ttft_s": 1.0846644160337746,
+    "tpot_s": 0.05692360573857742,
+    "total_latency_s": 12.412461958010681,
+    "output_tokens": 200,
+    "error": null
+  },
+  {
+    "run": 3,
+    "platform": "modal",
+    "ttft_s": 1.1394667910062708,
+    "tpot_s": 0.05697946315081369,
+    "total_latency_s": 12.478379958018195,
+    "output_tokens": 200,
+    "error": null
+  },
+  {
+    "run": 4,
+    "platform": "modal",
+    "ttft_s": 1.0821492079994641,
+    "tpot_s": 0.057008337311683005,
+    "total_latency_s": 12.426808333024383,
+    "output_tokens": 200,
+    "error": null
+  }
+]

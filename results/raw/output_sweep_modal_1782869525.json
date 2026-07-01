@@ -1,0 +1,182 @@
+[
+  {
+    "max_tokens": 25,
+    "run": 0,
+    "platform": "modal",
+    "ttft_s": 1.1068038329831325,
+    "tpot_s": 0.05678576391558939,
+    "total_latency_s": 2.469662166957278,
+    "output_tokens": 25,
+    "error": null
+  },
+  {
+    "max_tokens": 25,
+    "run": 1,
+    "platform": "modal",
+    "ttft_s": 1.1200794160249643,
+    "tpot_s": 0.05501428124989616,
+    "total_latency_s": 2.440422166022472,
+    "output_tokens": 25,
+    "error": null
+  },
+  {
+    "max_tokens": 25,
+    "run": 2,
+    "platform": "modal",
+    "ttft_s": 1.0701725829858333,
+    "tpot_s": 0.05685916145982143,
+    "total_latency_s": 2.4347924580215476,
+    "output_tokens": 25,
+    "error": null
+  },
+  {
+    "max_tokens": 50,
+    "run": 0,
+    "platform": "modal",
+    "ttft_s": 1.0870770000037737,
+    "tpot_s": 0.056480465979524414,
+    "total_latency_s": 3.85461983300047,
+    "output_tokens": 50,
+    "error": null
+  },
+  {
+    "max_tokens": 50,
+    "run": 1,
+    "platform": "modal",
+    "ttft_s": 1.08714570797747,
+    "tpot_s": 0.056854270408120085,
+    "total_latency_s": 3.873004957975354,
+    "output_tokens": 50,
+    "error": null
+  },
+  {
+    "max_tokens": 50,
+    "run": 2,
+    "platform": "modal",
+    "ttft_s": 1.2167754159891047,
+    "tpot_s": 0.05675211820361794,
+    "total_latency_s": 3.9976292079663835,
+    "output_tokens": 50,
+    "error": null
+  },
+  {
+    "max_tokens": 100,
+    "run": 0,
+    "platform": "modal",
+    "ttft_s": 1.0988008749554865,
+    "tpot_s": 0.05695110438403325,
+    "total_latency_s": 6.736960208974779,
+    "output_tokens": 100,
+    "error": null
+  },
+  {
+    "max_tokens": 100,
+    "run": 1,
+    "platform": "modal",
+    "ttft_s": 1.0465160420280881,
+    "tpot_s": 0.05698561742419678,
+    "total_latency_s": 6.688092167023569,
+    "output_tokens": 100,
+    "error": null
+  },
+  {
+    "max_tokens": 100,
+    "run": 2,
+    "platform": "modal",
+    "ttft_s": 1.1065769999986514,
+    "tpot_s": 0.056904271040394,
+    "total_latency_s": 6.740099832997657,
+    "output_tokens": 100,
+    "error": null
+  },
+  {
+    "max_tokens": 200,
+    "run": 0,
+    "platform": "modal",
+    "ttft_s": 1.111785375047475,
+    "tpot_s": 0.05702328936158253,
+    "total_latency_s": 12.4594199580024,
+    "output_tokens": 200,
+    "error": null
+  },
+  {
+    "max_tokens": 200,
+    "run": 1,
+    "platform": "modal",
+    "ttft_s": 1.0893306669895537,
+    "tpot_s": 0.057085143215895806,
+    "total_latency_s": 12.449274166952819,
+    "output_tokens": 200,
+    "error": null
+  },
+  {
+    "max_tokens": 200,
+    "run": 2,
+    "platform": "modal",
+    "ttft_s": 1.106374750030227,
+    "tpot_s": 0.05715347998307279,
+    "total_latency_s": 11.336847667000256,
+    "output_tokens": 180,
+    "error": null
+  },
+  {
+    "max_tokens": 400,
+    "run": 0,
+    "platform": "modal",
+    "ttft_s": 1.294146667001769,
+    "tpot_s": 0.057098016715510944,
+    "total_latency_s": 20.364884249982424,
+    "output_tokens": 335,
+    "error": null
+  },
+  {
+    "max_tokens": 400,
+    "run": 1,
+    "platform": "modal",
+    "ttft_s": 1.2801571249729022,
+    "tpot_s": 0.05721230150346754,
+    "total_latency_s": 17.757299957971554,
+    "output_tokens": 289,
+    "error": null
+  },
+  {
+    "max_tokens": 400,
+    "run": 2,
+    "platform": "modal",
+    "ttft_s": 1.0851417919620872,
+    "tpot_s": 0.05706385776363525,
+    "total_latency_s": 13.639190499961842,
+    "output_tokens": 221,
+    "error": null
+  },
+  {
+    "max_tokens": 800,
+    "run": 0,
+    "platform": "modal",
+    "ttft_s": 1.181431667006109,
+    "tpot_s": 0.057124321953786784,
+    "total_latency_s": 14.777020292007364,
+    "output_tokens": 239,
+    "error": null
+  },
+  {
+    "max_tokens": 800,
+    "run": 1,
+    "platform": "modal",
+    "ttft_s": 1.003010082989931,
+    "tpot_s": 0.05711053260382833,
+    "total_latency_s": 18.593054124969058,
+    "output_tokens": 309,
+    "error": null
+  },
+  {
+    "max_tokens": 800,
+    "run": 2,
+    "platform": "modal",
+    "ttft_s": 1.0150546669610776,
+    "tpot_s": 0.05713178081517375,
+    "total_latency_s": 22.953658499987796,
+    "output_tokens": 385,
+    "error": null
+  }
+]

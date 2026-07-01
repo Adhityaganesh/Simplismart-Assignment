@@ -1,0 +1,182 @@
+[
+  {
+    "max_tokens": 25,
+    "run": 0,
+    "platform": "simplismart",
+    "ttft_s": 0.36796104203676805,
+    "tpot_s": 0.00586059895673922,
+    "total_latency_s": 0.5086154169985093,
+    "output_tokens": 25,
+    "error": null
+  },
+  {
+    "max_tokens": 25,
+    "run": 1,
+    "platform": "simplismart",
+    "ttft_s": 0.2772847500164062,
+    "tpot_s": 0.005878348958503921,
+    "total_latency_s": 0.4183651250205003,
+    "output_tokens": 25,
+    "error": null
+  },
+  {
+    "max_tokens": 25,
+    "run": 2,
+    "platform": "simplismart",
+    "ttft_s": 0.32459245796781033,
+    "tpot_s": 0.005961862875362082,
+    "total_latency_s": 0.4676771669765003,
+    "output_tokens": 25,
+    "error": null
+  },
+  {
+    "max_tokens": 50,
+    "run": 0,
+    "platform": "simplismart",
+    "ttft_s": 0.30543891701381654,
+    "tpot_s": 0.005973652203576829,
+    "total_latency_s": 0.5981478749890812,
+    "output_tokens": 50,
+    "error": null
+  },
+  {
+    "max_tokens": 50,
+    "run": 1,
+    "platform": "simplismart",
+    "ttft_s": 0.3047129169572145,
+    "tpot_s": 0.006103002551791011,
+    "total_latency_s": 0.603760041994974,
+    "output_tokens": 50,
+    "error": null
+  },
+  {
+    "max_tokens": 50,
+    "run": 2,
+    "platform": "simplismart",
+    "ttft_s": 0.30406841600779444,
+    "tpot_s": 0.005963895408132551,
+    "total_latency_s": 0.5962992910062894,
+    "output_tokens": 50,
+    "error": null
+  },
+  {
+    "max_tokens": 100,
+    "run": 0,
+    "platform": "simplismart",
+    "ttft_s": 0.288377084012609,
+    "tpot_s": 0.006003981060466042,
+    "total_latency_s": 0.8827712089987472,
+    "output_tokens": 100,
+    "error": null
+  },
+  {
+    "max_tokens": 100,
+    "run": 1,
+    "platform": "simplismart",
+    "ttft_s": 0.2947307500289753,
+    "tpot_s": 0.006004465070689529,
+    "total_latency_s": 0.8891727920272388,
+    "output_tokens": 100,
+    "error": null
+  },
+  {
+    "max_tokens": 100,
+    "run": 2,
+    "platform": "simplismart",
+    "ttft_s": 0.3348616670118645,
+    "tpot_s": 0.005958395616170207,
+    "total_latency_s": 0.924742833012715,
+    "output_tokens": 100,
+    "error": null
+  },
+  {
+    "max_tokens": 200,
+    "run": 0,
+    "platform": "simplismart",
+    "ttft_s": 0.28912666701944545,
+    "tpot_s": 0.006037456241153162,
+    "total_latency_s": 1.4905804590089247,
+    "output_tokens": 200,
+    "error": null
+  },
+  {
+    "max_tokens": 200,
+    "run": 1,
+    "platform": "simplismart",
+    "ttft_s": 0.30650016700383276,
+    "tpot_s": 0.00604118383431049,
+    "total_latency_s": 1.5086957500316203,
+    "output_tokens": 200,
+    "error": null
+  },
+  {
+    "max_tokens": 200,
+    "run": 2,
+    "platform": "simplismart",
+    "ttft_s": 0.29634891700698063,
+    "tpot_s": 0.006027656618152375,
+    "total_latency_s": 1.4958525840193033,
+    "output_tokens": 200,
+    "error": null
+  },
+  {
+    "max_tokens": 400,
+    "run": 0,
+    "platform": "simplismart",
+    "ttft_s": 0.31589825003175065,
+    "tpot_s": 0.0060395999999488135,
+    "total_latency_s": 2.0371842500171624,
+    "output_tokens": 286,
+    "error": null
+  },
+  {
+    "max_tokens": 400,
+    "run": 1,
+    "platform": "simplismart",
+    "ttft_s": 0.2957785410108045,
+    "tpot_s": 0.006017853276292719,
+    "total_latency_s": 1.2766886250465177,
+    "output_tokens": 164,
+    "error": null
+  },
+  {
+    "max_tokens": 400,
+    "run": 2,
+    "platform": "simplismart",
+    "ttft_s": 0.3304056250490248,
+    "tpot_s": 0.006043954008090936,
+    "total_latency_s": 2.5424927920103073,
+    "output_tokens": 367,
+    "error": null
+  },
+  {
+    "max_tokens": 800,
+    "run": 0,
+    "platform": "simplismart",
+    "ttft_s": 0.32096045900834724,
+    "tpot_s": 0.006054278578578441,
+    "total_latency_s": 1.7860958750243299,
+    "output_tokens": 243,
+    "error": null
+  },
+  {
+    "max_tokens": 800,
+    "run": 1,
+    "platform": "simplismart",
+    "ttft_s": 0.2875753749976866,
+    "tpot_s": 0.006049668994177517,
+    "total_latency_s": 2.344462833018042,
+    "output_tokens": 341,
+    "error": null
+  },
+  {
+    "max_tokens": 800,
+    "run": 2,
+    "platform": "simplismart",
+    "ttft_s": 0.2858112499816343,
+    "tpot_s": 0.006027914005321788,
+    "total_latency_s": 1.4190590829821303,
+    "output_tokens": 189,
+    "error": null
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "target_input_tokens": 64,
+    "actual_prompt_chars": 45,
+    "run": 0,
+    "platform": "simplismart",
+    "ttft_s": 0.31827383395284414,
+    "tpot_s": 0.006074499142859891,
+    "output_tokens": 50,
+    "error": null
+  },
+  {
+    "target_input_tokens": 64,
+    "actual_prompt_chars": 45,
+    "run": 1,
+    "platform": "simplismart",
+    "ttft_s": 0.2784790419973433,
+    "tpot_s": 0.006003954268923801,
+    "output_tokens": 42,
+    "error": null
+  },
+  {
+    "target_input_tokens": 64,
+    "actual_prompt_chars": 45,
+    "run": 2,
+    "platform": "simplismart",
+    "ttft_s": 0.3010432500159368,
+    "tpot_s": 0.006145714743373294,
+    "output_tokens": 40,
+    "error": null
+  },
+  {
+    "target_input_tokens": 128,
+    "actual_prompt_chars": 200,
+    "run": 0,
+    "platform": "simplismart",
+    "ttft_s": 0.2891745410161093,
+    "tpot_s": 0.006036715142485894,
+    "output_tokens": 50,
+    "error": null
+  },
+  {
+    "target_input_tokens": 128,
+    "actual_prompt_chars": 200,
+    "run": 1,
+    "platform": "simplismart",
+    "ttft_s": 0.279885791009292,
+    "tpot_s": 0.005784446428225813,
+    "output_tokens": 50,
+    "error": null
+  },
+  {
+    "target_input_tokens": 128,
+    "actual_prompt_chars": 200,
+    "run": 2,
+    "platform": "simplismart",
+    "ttft_s": 0.29075512499548495,
+    "tpot_s": 0.005874357979782686,
+    "output_tokens": 50,
+    "error": null
+  },
+  {
+    "target_input_tokens": 256,
+    "actual_prompt_chars": 435,
+    "run": 0,
+    "platform": "simplismart",
+    "ttft_s": 0.31816804100526497,
+    "tpot_s": 0.00598548299975085,
+    "output_tokens": 50,
+    "error": null
+  },
+  {
+    "target_input_tokens": 256,
+    "actual_prompt_chars": 435,
+    "run": 1,
+    "platform": "simplismart",
+    "ttft_s": 0.29817899997578934,
+    "tpot_s": 0.005994223633172865,
+    "output_tokens": 50,
+    "error": null
+  },
+  {
+    "target_input_tokens": 256,
+    "actual_prompt_chars": 435,
+    "run": 2,
+    "platform": "simplismart",
+    "ttft_s": 0.34583433298394084,
+    "tpot_s": 0.006065174326661746,
+    "output_tokens": 50,
+    "error": null
+  },
+  {
+    "target_input_tokens": 512,
+    "actual_prompt_chars": 739,
+    "run": 0,
+    "platform": "simplismart",
+    "ttft_s": 0.3205817919806577,
+    "tpot_s": 0.006006649653759918,
+    "output_tokens": 50,
+    "error": null
+  },
+  {
+    "target_input_tokens": 512,
+    "actual_prompt_chars": 739,
+    "run": 1,
+    "platform": "simplismart",
+    "ttft_s": 0.308810833026655,
+    "tpot_s": 0.006004810366513473,
+    "output_tokens": 50,
+    "error": null
+  },
+  {
+    "target_input_tokens": 512,
+    "actual_prompt_chars": 739,
+    "run": 2,
+    "platform": "simplismart",
+    "ttft_s": 0.30461633403319865,
+    "tpot_s": 0.006058546754873681,
+    "output_tokens": 50,
+    "error": null
+  },
+  {
+    "target_input_tokens": 1024,
+    "actual_prompt_chars": 1331,
+    "run": 0,
+    "platform": "simplismart",
+    "ttft_s": 0.3050585829769261,
+    "tpot_s": 0.00610930612191976,
+    "output_tokens": 50,
+    "error": null
+  },
+  {
+    "target_input_tokens": 1024,
+    "actual_prompt_chars": 1331,
+    "run": 1,
+    "platform": "simplismart",
+    "ttft_s": 0.3478575840126723,
+    "tpot_s": 0.0060170646127294366,
+    "output_tokens": 50,
+    "error": null
+  },
+  {
+    "target_input_tokens": 1024,
+    "actual_prompt_chars": 1331,
+    "run": 2,
+    "platform": "simplismart",
+    "ttft_s": 0.28562333300942555,
+    "tpot_s": 0.00609522024454663,
+    "output_tokens": 50,
+    "error": null
+  }
+]

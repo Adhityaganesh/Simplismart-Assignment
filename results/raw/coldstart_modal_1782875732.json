@@ -1,0 +1,8 @@
+{
+  "platform": "modal",
+  "cold_wall_s": 114.06699266697979,
+  "ttft_s": 102.7389119999716,
+  "tpot_s": 0.056916325587964146,
+  "output_tokens": 200,
+  "error": null
+}

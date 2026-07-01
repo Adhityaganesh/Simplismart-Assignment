@@ -1,0 +1,876 @@
+{
+  "32": {
+    "wall_s": 48.4105442079599,
+    "requests": [
+      {
+        "worker": 0,
+        "platform": "modal",
+        "ttft_s": 10.469820166996215,
+        "tpot_s": 0.0595665192614712,
+        "total_latency_s": 22.323557500028983,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 1,
+        "platform": "modal",
+        "ttft_s": 10.531376749975607,
+        "tpot_s": 0.0594382793116079,
+        "total_latency_s": 22.35959433298558,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 2,
+        "platform": "modal",
+        "ttft_s": 10.48147479101317,
+        "tpot_s": 0.059633246653399724,
+        "total_latency_s": 22.348490875039715,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 3,
+        "platform": "modal",
+        "ttft_s": 10.46915491699474,
+        "tpot_s": 0.05956623806552634,
+        "total_latency_s": 22.32283629203448,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 4,
+        "platform": "modal",
+        "ttft_s": 10.47770120803034,
+        "tpot_s": 0.05917890882359215,
+        "total_latency_s": 20.538115708041005,
+        "output_tokens": 171,
+        "error": null
+      },
+      {
+        "worker": 5,
+        "platform": "modal",
+        "ttft_s": 1.1033652080222964,
+        "tpot_s": 0.10550110845741156,
+        "total_latency_s": 22.098085791047197,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 6,
+        "platform": "modal",
+        "ttft_s": 10.477516666986048,
+        "tpot_s": 0.059552906406926336,
+        "total_latency_s": 22.32854504196439,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 7,
+        "platform": "modal",
+        "ttft_s": 10.477440124959685,
+        "tpot_s": 0.059583044175968866,
+        "total_latency_s": 22.33446591597749,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 8,
+        "platform": "modal",
+        "ttft_s": 10.491698708035983,
+        "tpot_s": 0.05957806386415093,
+        "total_latency_s": 22.34773341700202,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 9,
+        "platform": "modal",
+        "ttft_s": 10.530975333997048,
+        "tpot_s": 0.05934321210045723,
+        "total_latency_s": 22.340274541988038,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 10,
+        "platform": "modal",
+        "ttft_s": 10.477097042021342,
+        "tpot_s": 0.059177237934346406,
+        "total_latency_s": 21.306531584006734,
+        "output_tokens": 184,
+        "error": null
+      },
+      {
+        "worker": 11,
+        "platform": "modal",
+        "ttft_s": 10.536241624969989,
+        "tpot_s": 0.059543016753931664,
+        "total_latency_s": 22.38530195900239,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 12,
+        "platform": "modal",
+        "ttft_s": 1.205238415976055,
+        "tpot_s": 0.05930572738707178,
+        "total_latency_s": 13.007078166003339,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 13,
+        "platform": "modal",
+        "ttft_s": 0.9958222080022097,
+        "tpot_s": 0.05936371691960224,
+        "total_latency_s": 12.809201875003055,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 14,
+        "platform": "modal",
+        "ttft_s": 1.1722860419540666,
+        "tpot_s": 0.059427327889453,
+        "total_latency_s": 12.998324291955214,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 15,
+        "platform": "modal",
+        "ttft_s": 1.2503919170121662,
+        "tpot_s": 0.05935928391950233,
+        "total_latency_s": 13.06288941699313,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 16,
+        "platform": "modal",
+        "ttft_s": 1.243668416980654,
+        "tpot_s": 0.05941867587962726,
+        "total_latency_s": 13.067984917026479,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 17,
+        "platform": "modal",
+        "ttft_s": 1.2442748749745078,
+        "tpot_s": 0.0593891404926,
+        "total_latency_s": 13.062713833001908,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 18,
+        "platform": "modal",
+        "ttft_s": 1.1428824170143344,
+        "tpot_s": 0.05937457914568306,
+        "total_latency_s": 12.958423667005263,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 19,
+        "platform": "modal",
+        "ttft_s": 1.2386776249622926,
+        "tpot_s": 0.05944289321614542,
+        "total_latency_s": 13.06781337497523,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 20,
+        "platform": "modal",
+        "ttft_s": 1.2398303750087507,
+        "tpot_s": 0.059352706658277174,
+        "total_latency_s": 13.051019000005908,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 21,
+        "platform": "modal",
+        "ttft_s": 1.2145582499797456,
+        "tpot_s": 0.05941365095997351,
+        "total_latency_s": 13.037874791014474,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 22,
+        "platform": "modal",
+        "ttft_s": 1.220756916969549,
+        "tpot_s": 0.05935675565337051,
+        "total_latency_s": 13.03275129199028,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 23,
+        "platform": "modal",
+        "ttft_s": 1.0918396250344813,
+        "tpot_s": 0.059402638190746516,
+        "total_latency_s": 12.912964624993037,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 24,
+        "platform": "modal",
+        "ttft_s": 1.3055907909874804,
+        "tpot_s": 0.05892201381894624,
+        "total_latency_s": 13.031071540957782,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 25,
+        "platform": "modal",
+        "ttft_s": 1.2266026249853894,
+        "tpot_s": 0.05891824497498488,
+        "total_latency_s": 12.95133337500738,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 26,
+        "platform": "modal",
+        "ttft_s": 1.14397541701328,
+        "tpot_s": 0.059053641120638774,
+        "total_latency_s": 12.895650000020396,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 27,
+        "platform": "modal",
+        "ttft_s": 1.137307375029195,
+        "tpot_s": 0.05899505611057464,
+        "total_latency_s": 12.877323541033547,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 28,
+        "platform": "modal",
+        "ttft_s": 1.1999546659644693,
+        "tpot_s": 0.058933268427256796,
+        "total_latency_s": 12.927675082988571,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 29,
+        "platform": "modal",
+        "ttft_s": 1.17523400002392,
+        "tpot_s": 0.05887283097940664,
+        "total_latency_s": 12.655436041008215,
+        "output_tokens": 196,
+        "error": null
+      },
+      {
+        "worker": 30,
+        "platform": "modal",
+        "ttft_s": 1.1703924579778686,
+        "tpot_s": 0.05895067713587269,
+        "total_latency_s": 12.901577208016533,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 31,
+        "platform": "modal",
+        "ttft_s": 1.324960750003811,
+        "tpot_s": 0.05874145121094841,
+        "total_latency_s": 13.014509540982544,
+        "output_tokens": 200,
+        "error": null
+      }
+    ]
+  },
+  "64": {
+    "wall_s": 77.1805286249728,
+    "requests": [
+      {
+        "worker": 0,
+        "platform": "modal",
+        "ttft_s": 1.305551249999553,
+        "tpot_s": 0.059356743512539445,
+        "total_latency_s": 13.117543208994903,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 1,
+        "platform": "modal",
+        "ttft_s": 1.3039082500035875,
+        "tpot_s": 0.0593735736295231,
+        "total_latency_s": 12.525513665983453,
+        "output_tokens": 190,
+        "error": null
+      },
+      {
+        "worker": 2,
+        "platform": "modal",
+        "ttft_s": 1.3059222499723546,
+        "tpot_s": 0.05937996566331894,
+        "total_latency_s": 13.122535416972823,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 3,
+        "platform": "modal",
+        "ttft_s": 1.316506750008557,
+        "tpot_s": 0.05938997445715797,
+        "total_latency_s": 13.135111666982993,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 4,
+        "platform": "modal",
+        "ttft_s": 1.315137124969624,
+        "tpot_s": 0.05930194472361721,
+        "total_latency_s": 13.116224124969449,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 5,
+        "platform": "modal",
+        "ttft_s": 1.3857344589778222,
+        "tpot_s": 0.059291302763807806,
+        "total_latency_s": 13.184703708975576,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 6,
+        "platform": "modal",
+        "ttft_s": 1.3155792920151725,
+        "tpot_s": 0.059325061135646895,
+        "total_latency_s": 13.121266458008904,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 7,
+        "platform": "modal",
+        "ttft_s": 1.3036731249885634,
+        "tpot_s": 0.0593583982413864,
+        "total_latency_s": 13.115994375024457,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 8,
+        "platform": "modal",
+        "ttft_s": 1.292040291999001,
+        "tpot_s": 0.05936930307160808,
+        "total_latency_s": 11.266083208029158,
+        "output_tokens": 169,
+        "error": null
+      },
+      {
+        "worker": 9,
+        "platform": "modal",
+        "ttft_s": 1.1029217920149677,
+        "tpot_s": 0.05944672801494411,
+        "total_latency_s": 12.932820666988846,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 10,
+        "platform": "modal",
+        "ttft_s": 1.3028385419747792,
+        "tpot_s": 0.05935820644743619,
+        "total_latency_s": 13.11512162501458,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 11,
+        "platform": "modal",
+        "ttft_s": 1.298675165977329,
+        "tpot_s": 0.05935237730646169,
+        "total_latency_s": 13.109798249963205,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 12,
+        "platform": "modal",
+        "ttft_s": 1.14763383398531,
+        "tpot_s": 0.05928449643730191,
+        "total_latency_s": 12.94524862500839,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 13,
+        "platform": "modal",
+        "ttft_s": 1.171238542010542,
+        "tpot_s": 0.059415393215884925,
+        "total_latency_s": 12.994901791971643,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 14,
+        "platform": "modal",
+        "ttft_s": 1.0791412909748033,
+        "tpot_s": 0.05949368341720602,
+        "total_latency_s": 12.918384290998802,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 15,
+        "platform": "modal",
+        "ttft_s": 1.1591070840368047,
+        "tpot_s": 0.059471250416935614,
+        "total_latency_s": 12.993885917006992,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 16,
+        "platform": "modal",
+        "ttft_s": 1.1675532080116682,
+        "tpot_s": 0.059494294180831964,
+        "total_latency_s": 13.006917749997228,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 17,
+        "platform": "modal",
+        "ttft_s": 1.24780875002034,
+        "tpot_s": 0.0593943716531114,
+        "total_latency_s": 13.067288708989508,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 18,
+        "platform": "modal",
+        "ttft_s": 1.2421064169611782,
+        "tpot_s": 0.059369137562722454,
+        "total_latency_s": 13.056564791942947,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 19,
+        "platform": "modal",
+        "ttft_s": 1.1533972079632804,
+        "tpot_s": 0.05942116645732239,
+        "total_latency_s": 12.978209332970437,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 20,
+        "platform": "modal",
+        "ttft_s": 1.2945579590159468,
+        "tpot_s": 0.05930686411044172,
+        "total_latency_s": 13.096623916993849,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 21,
+        "platform": "modal",
+        "ttft_s": 1.162012542015873,
+        "tpot_s": 0.059407167317658605,
+        "total_latency_s": 12.568188667006325,
+        "output_tokens": 193,
+        "error": null
+      },
+      {
+        "worker": 22,
+        "platform": "modal",
+        "ttft_s": 1.2303963330341503,
+        "tpot_s": 0.05936208061304121,
+        "total_latency_s": 13.043450375029352,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 23,
+        "platform": "modal",
+        "ttft_s": 1.2288957089767791,
+        "tpot_s": 0.05935055841709342,
+        "total_latency_s": 13.03965683397837,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 24,
+        "platform": "modal",
+        "ttft_s": 1.2011560830287635,
+        "tpot_s": 0.059317488693363084,
+        "total_latency_s": 13.005336333008017,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 25,
+        "platform": "modal",
+        "ttft_s": 1.2359066249919124,
+        "tpot_s": 0.05953437164829501,
+        "total_latency_s": 13.08324658300262,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 26,
+        "platform": "modal",
+        "ttft_s": 1.1573684579925612,
+        "tpot_s": 0.05949370223220974,
+        "total_latency_s": 12.93712149997009,
+        "output_tokens": 199,
+        "error": null
+      },
+      {
+        "worker": 27,
+        "platform": "modal",
+        "ttft_s": 1.25098979199538,
+        "tpot_s": 0.05947647131651865,
+        "total_latency_s": 13.08680758398259,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 28,
+        "platform": "modal",
+        "ttft_s": 1.1860114169539884,
+        "tpot_s": 0.05937602679916756,
+        "total_latency_s": 13.001840749988332,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 29,
+        "platform": "modal",
+        "ttft_s": 1.1420928750303574,
+        "tpot_s": 0.059452211055214324,
+        "total_latency_s": 12.973082875018008,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 30,
+        "platform": "modal",
+        "ttft_s": 1.1787589159794152,
+        "tpot_s": 0.05935563756288708,
+        "total_latency_s": 12.990530790993944,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 31,
+        "platform": "modal",
+        "ttft_s": 1.182399625016842,
+        "tpot_s": 0.05934049204505521,
+        "total_latency_s": 12.99115754198283,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 32,
+        "platform": "modal",
+        "ttft_s": 1.1675366660347208,
+        "tpot_s": 0.05941905213570241,
+        "total_latency_s": 12.9919280410395,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 33,
+        "platform": "modal",
+        "ttft_s": 1.1727923749713227,
+        "tpot_s": 0.05933853726653878,
+        "total_latency_s": 12.98116129101254,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 34,
+        "platform": "modal",
+        "ttft_s": 1.1934370410162956,
+        "tpot_s": 0.05938939593969868,
+        "total_latency_s": 13.011926833016332,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 35,
+        "platform": "modal",
+        "ttft_s": 1.180089916975703,
+        "tpot_s": 0.059428051718681506,
+        "total_latency_s": 13.006272208993323,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 36,
+        "platform": "modal",
+        "ttft_s": 1.1272745409514755,
+        "tpot_s": 0.05945968718604938,
+        "total_latency_s": 12.959752290975302,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 37,
+        "platform": "modal",
+        "ttft_s": 1.055451542022638,
+        "tpot_s": 0.05954624330139387,
+        "total_latency_s": 12.905153959000017,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 38,
+        "platform": "modal",
+        "ttft_s": 1.3009385420009494,
+        "tpot_s": 0.05958195142219798,
+        "total_latency_s": 13.157746875018347,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 39,
+        "platform": "modal",
+        "ttft_s": 1.0713695830199867,
+        "tpot_s": 0.059536393004968,
+        "total_latency_s": 12.919111791008618,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 40,
+        "platform": "modal",
+        "ttft_s": 1.1988271659938619,
+        "tpot_s": 0.059567287860323066,
+        "total_latency_s": 12.278342708013952,
+        "output_tokens": 187,
+        "error": null
+      },
+      {
+        "worker": 41,
+        "platform": "modal",
+        "ttft_s": 1.3018545000231825,
+        "tpot_s": 0.05941089007526112,
+        "total_latency_s": 13.124621625000145,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 42,
+        "platform": "modal",
+        "ttft_s": 1.3104884590138681,
+        "tpot_s": 0.05945564467833148,
+        "total_latency_s": 13.142161750001833,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 43,
+        "platform": "modal",
+        "ttft_s": 1.3228382500237785,
+        "tpot_s": 0.05934590263814015,
+        "total_latency_s": 13.132672875013668,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 44,
+        "platform": "modal",
+        "ttft_s": 1.183929499995429,
+        "tpot_s": 0.05949882495985717,
+        "total_latency_s": 13.024195667007007,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 45,
+        "platform": "modal",
+        "ttft_s": 1.1695828330121003,
+        "tpot_s": 0.05942951744035109,
+        "total_latency_s": 12.104614042036701,
+        "output_tokens": 185,
+        "error": null
+      },
+      {
+        "worker": 46,
+        "platform": "modal",
+        "ttft_s": 1.313831667008344,
+        "tpot_s": 0.0593621143217119,
+        "total_latency_s": 13.126892417029012,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 47,
+        "platform": "modal",
+        "ttft_s": 1.3197825829847716,
+        "tpot_s": 0.05938673809696968,
+        "total_latency_s": 12.959583249990828,
+        "output_tokens": 197,
+        "error": null
+      },
+      {
+        "worker": 48,
+        "platform": "modal",
+        "ttft_s": 1.1120316250016913,
+        "tpot_s": 0.05950606323605469,
+        "total_latency_s": 12.953738208976574,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 49,
+        "platform": "modal",
+        "ttft_s": 1.1134378329734318,
+        "tpot_s": 0.05950027910568962,
+        "total_latency_s": 12.953993375005666,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 50,
+        "platform": "modal",
+        "ttft_s": 1.1094282090198249,
+        "tpot_s": 0.05953150523104588,
+        "total_latency_s": 12.956197749997955,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 51,
+        "platform": "modal",
+        "ttft_s": 1.1389442920335568,
+        "tpot_s": 0.05958269367312741,
+        "total_latency_s": 12.995900332985912,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 52,
+        "platform": "modal",
+        "ttft_s": 1.1430375829804689,
+        "tpot_s": 0.05954863986962161,
+        "total_latency_s": 12.99321691703517,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 53,
+        "platform": "modal",
+        "ttft_s": 1.133748000022024,
+        "tpot_s": 0.059463055954048674,
+        "total_latency_s": 11.539782791980542,
+        "output_tokens": 176,
+        "error": null
+      },
+      {
+        "worker": 54,
+        "platform": "modal",
+        "ttft_s": 1.1735639589605853,
+        "tpot_s": 0.05952506725557412,
+        "total_latency_s": 12.126176333986223,
+        "output_tokens": 185,
+        "error": null
+      },
+      {
+        "worker": 55,
+        "platform": "modal",
+        "ttft_s": 1.412877666996792,
+        "tpot_s": 0.059406525336659924,
+        "total_latency_s": 13.234776208992116,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 56,
+        "platform": "modal",
+        "ttft_s": 1.1918923340272158,
+        "tpot_s": 0.05948743341700057,
+        "total_latency_s": 13.029891584010329,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 57,
+        "platform": "modal",
+        "ttft_s": 1.3231825410039164,
+        "tpot_s": 0.059388222572704936,
+        "total_latency_s": 13.141438832972199,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 58,
+        "platform": "modal",
+        "ttft_s": 1.3299220420303755,
+        "tpot_s": 0.059440648241141744,
+        "total_latency_s": 13.158611042017583,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 59,
+        "platform": "modal",
+        "ttft_s": 1.2664352920255624,
+        "tpot_s": 0.05945785175868539,
+        "total_latency_s": 13.098547792003956,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 60,
+        "platform": "modal",
+        "ttft_s": 1.1885563749819994,
+        "tpot_s": 0.05883769681396422,
+        "total_latency_s": 12.897258040960878,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 61,
+        "platform": "modal",
+        "ttft_s": 1.148616333026439,
+        "tpot_s": 0.05882090096474255,
+        "total_latency_s": 12.853975625010207,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 62,
+        "platform": "modal",
+        "ttft_s": 1.1573432919685729,
+        "tpot_s": 0.05864880339215608,
+        "total_latency_s": 12.828455167007633,
+        "output_tokens": 200,
+        "error": null
+      },
+      {
+        "worker": 63,
+        "platform": "modal",
+        "ttft_s": 1.1476254999870434,
+        "tpot_s": 0.05877822417560257,
+        "total_latency_s": 11.198701834015083,
+        "output_tokens": 172,
+        "error": null
+      }
+    ]
+  }
+}
